@@ -1,4 +1,4 @@
-package org.example.plugin;
+package dev.arbjerg.mock;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
