@@ -9,7 +9,7 @@ public class MockPlugin {
 
     private static final Logger log = LoggerFactory.getLogger(MockPlugin.class);
 
-    public SampleEventHandler() {
+    public MockPlugin() {
         log.info("Hello, world!");
     }
 
